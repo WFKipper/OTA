@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <shamu>
-            <Filename>ResurrectionRemix-M-v5.6.7-20160411-kipper.zip</Filename>
+        <kipper>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160503-kipper.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://yadi.sk/d/pn58T4Fnquixo</RomUrl>
+                description="Download ResurrectionRemix builds">https://yadi.sk/d/7eWPlfaSrU6Bn</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -15,6 +15,6 @@
             	id="gapps"
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
-	</shamu>
+	</kipper>
     </Stable>
 </SlimOTA>
