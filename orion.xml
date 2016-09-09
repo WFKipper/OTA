@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <kipper>
+            <Filename></Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424953190</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View OrionOS Changelog">https://github.com/TeamOrion/Documentation/blob/master/changelog.txt</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit OrionOS Wileyfox Storm thread">http://forum.xda-developers.com/wileyfox-storm/development/rom-orion-os-t3449188</XDAUrl>            	
+	     </kipper>
+    </Stable>  
+</SlimOTA>
