@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kipper>
-            <Filename></Filename>
+            <Filename>OrionOS-kipper-2.6.1-UNOFFICIAL-20160911.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424953190</RomUrl>
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=24591000424965301</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
